@@ -22,6 +22,7 @@
 		display: block;
 	}
 
+
 	.new_header {
 		display: flex;
 		justify-content: space-between;
@@ -3429,7 +3430,7 @@
 		background-size: cover;
 		border-bottom: 0 !important;
 		cursor: default;
-		height: 60vh;
+		height: 30vh;
 		margin-bottom: -3.25em;
 		max-height: 32em;
 		min-height: 22em;
@@ -4005,6 +4006,58 @@ footer {
 	text-decoration: none;
 	align-items: center;
 	border: 1px solid white;
-	border-radius: 3px;
+	border-radius: 10px;
 	margin: 10px;
+	margin-bottom: 20px;
+	padding: 10px;
+	padding-left: 20px;
+}
+
+/*.skillheight {
+	height: 100px;
+	/*width: 100%;*/
+
+.exp_links {
+	display: flex;
+	justify-content: space-between;
+	padding-right: 20px;
+}
+
+.work_list {
+	margin-left: 20px;
+}
+
+.work_links {
+
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+
+.skills_h4 {
+	margin: 10px;
+	margin-top: 0px;
+	text-align: center;
+	padding-bottom: 5px;
+
+}
+
+
+.skillsdiv {
+	width: 300px;
+	text-align: center;
+
+}
+
+.skills {
+	border: 1px solid white;
+	border-radius: 10px;
+	margin: 10px 0;
+	padding: 2px;
+}
+
+.main_skills {
+	display: flex;
+	justify-content: center;
+
 }
